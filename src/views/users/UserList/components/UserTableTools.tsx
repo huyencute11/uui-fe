@@ -37,7 +37,7 @@ const ProductTableTools = () => {
                 size="sm"
                 icon={<HiPlusCircle />}
             >
-                Add Product
+                Add User
             </Button>
             {/* </Link> */}
         </div>
